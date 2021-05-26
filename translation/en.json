@@ -1,0 +1,21 @@
+{
+    "myqard": "MyQard",
+    "create_account": "Create Account",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "signup": "Sign Up",
+    "login": "Login",
+    "already_have_account": "Already have an account ?",
+    "OTP_Verify": "OTP Verification",
+    "OTP_Sent_TO": "Enter the OTP sent to ",
+    "OTP_resend_label": "Don't received the OTP ?",
+    "Resend_OTP_label": "Resend OTP",
+    "verify_and_proceed_btn_label": "Verify & Proceed",
+    "password": "Password",
+    "login_with":"LOGIN WITH",
+    "Dont_have_account": "Don't have an account",
+    "login_with_OTP_btn_label": "Login With OTP",
+    "login_with_Email_btn_label": "Login With Email"
+  }

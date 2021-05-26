@@ -1,0 +1,10 @@
+export const PERSONAL_FIELD_DETAILS = 'PERSONAL_FIELD_DETAILS';
+export const PERSONAL_INFO_SWITCH = 'PERSONAL_INFO_SWITCH';
+export const ADDRESS_FIELD = 'ADDRESS_FIELD';
+export const ADDRESS_SWITCH = 'ADDRESS_SWITCH';
+export const WORK_FIELD = 'WORK_FIELD';
+export const WORK_SWITCH = 'WORK_SWITCH';
+export const LOGINDATA = 'LOGINDATA';
+export const TOKENDATA = 'TOKENDATA';
+export const CLEARDATA = 'CLEARDATA';
+export const SIGNOUT = 'SIGNOUT';

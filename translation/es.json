@@ -1,0 +1,19 @@
+{
+    "first_name":"Primer nombre",
+    "create_account": "Crear una cuenta",
+    "last_name": "Apellido",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "signup": "Inscribirse",
+    "login": "Acceso",
+    "already_have_account": "Ya tienes una cuenta ?",
+    "OTP_Verify": "Verificación OTP",
+    "OTP_Sent_TO": "Ingrese la OTP enviada a",
+    "OTP_resend_label": "¿No recibió la OTP?",
+    "Resend_OTP_label": "Reenviar OTP",
+    "verify_and_proceed_btn_label": "Verificar y continuar",
+    "password": "Contraseña",
+    "Dont_have_account": "¿No tienes una cuenta?",
+    "login_with":"INICIAR CON",
+    "login_with_OTP_btn_label": "Iniciar sesión con OTP"
+}
